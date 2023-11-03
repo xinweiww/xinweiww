@@ -1,1 +1,2 @@
 print("xinwei")
+print("hahawoshizhu")
